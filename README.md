@@ -37,5 +37,5 @@ This is a RESTful Spring Boot application implementing:
 # Step 1: Build the project
 mvn clean install
 
-# Step 2: Start containers (Spring Boot + MySQL)
+# Step 2: Start containers (Spring Boot + Postgresql)
 docker-compose up --build
